@@ -1,6 +1,6 @@
 # Updates
- ErrorMessageDetecter_GUI.py file was compiled to be an executable file (.exe) <br>
- No longer have to install any dependency. Simply click "ErrorMessageDetecter_GUI.exe"! <br>
+ ErrorMessageDetecter_GUI.py file is compiled to be an executable file (.exe) <br>
+ No longer have to install any dependency! Simply click "ErrorMessageDetecter_GUI.exe"! <br>
  Note: Still, you need to follow "Three things to do in advance" in the Quick Start section. <br>
  
 # Description
