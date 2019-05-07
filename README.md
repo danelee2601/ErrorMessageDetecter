@@ -1,7 +1,7 @@
 # Updates
  ErrorMessageDetecter_GUI.py file is compiled to be an executable file (.exe) <br>
  No longer have to install any dependency! Simply click "ErrorMessageDetecter_GUI.exe"! <br>
- Note: Still, you need to follow "Three things to do in advance" in the Quick Start section. <br>
+ <b>[Note]</b>: Still, you need to follow "Three things to do in advance" in the Quick Start section. <br>
  
 # Description
  &nbsp;It detects an error message (pop-up window), and notifies the user by email. <br>
