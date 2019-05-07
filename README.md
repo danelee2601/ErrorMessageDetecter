@@ -46,4 +46,14 @@
 7. The notification email. <br><br>
  
  
+<p align="center">
+<i>
+Made by Daesoo Lee (이대수), Masters, Korea Maritime and Ocean University (한국해양대학교)<br>
+e-mail : daesoolee@kmou.ac.kr<br>
+First made on 04/14/2019<br><br></p>
+
+<p align="center">
+Made for 울산대학교 천이난류유동연구실
+</i>
+</p>
 
