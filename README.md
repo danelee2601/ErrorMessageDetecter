@@ -5,7 +5,7 @@
  <br>
  For the convience of use, it is made in a GUI form.<br>
  <br>
- Detection Algorithm: Template Matching Method <br>
+ <i>Detection Algorithm: Template Matching Method</i> <br>
  
 # Dependency (Names of Libraries)
   tkinter, numpy, matplotlib, cv2
