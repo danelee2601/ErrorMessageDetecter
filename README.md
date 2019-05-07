@@ -18,30 +18,32 @@
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a01.PNG"> <br>
-1. If you execute 'ErrorMessageDetecter_GUI.py', you will see this window. <br>
+1. If you execute 'ErrorMessageDetecter_GUI.py', you will see this window. <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a02.PNG"> <br>
-2. Click 'open an image', and choose the image of the error message. <br>
+2. Click 'open an image', and choose the image of the error message. <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a03.PNG"> <br>
-3. It's the window with the image file uploaded. <br>
+3. It's the window with the image file uploaded. <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a09.PNG"> <br>
 4. Type your Naver id, password and detection period (= how often you want the detecter to detect.) [in seconds] <br>
-(FYI. If 'Detection Plot Option' is checked, when the error message is detected, the program will show where it finds the message by a red square. But you don't have to check it. Not necessary at all.) <br>
+(FYI. If 'Detection Plot Option' is checked, when the error message is detected, the program will show where it finds the message by a red square. But you don't have to check it. Not necessary at all.) <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a05.PNG"> <br>
-5. The Detecter is running ... <br>
+5. The Detecter is running ... <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a06-1.PNG"> <br>
-6. if the detecter finds the error message, it prints "Detected!" and sends a notification email to your Naver email account. <br>
+6. if the detecter finds the error message, it prints "Detected!" and sends a notification email to your Naver email account. <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a08.PNG"> <br>
-7. The notification email. <br>
+7. The notification email. <br><br>
+ 
+ 
 
