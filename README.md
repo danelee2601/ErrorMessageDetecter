@@ -9,9 +9,17 @@
   tkinter, numpy, matplotlib, cv2
   
 # Quick Start
+<b>Two things to do in advance</b> <br>
+(a) Allow the SMTP use in the naver mail to send an email with python: https://qkqhxla1.tistory.com/804 <br>
+(b) Download the naver mail app on your phone: http://blog.naver.com/PostView.nhn? blogId=wldms3512&logNo=220567926748&parentCategoryNo=&categoryNo=21&viewDate=&isShowPopularPosts=true&from=search <br>
+
+<br>
+
 <img src="ErrorMessageDetecter/images/a01.PNG"> <br>
+1. If you execute 'ErrorMessageDetecter_GUI.py', you will see this window. <br>
 
 <img src="ErrorMessageDetecter/images/a02.PNG"> <br>
+2. Click 'open an image', and choose the error message image
 
 <img src="ErrorMessageDetecter/images/a03.PNG"> <br>
 
