@@ -257,8 +257,8 @@ class ErrorMessageDetecter(object):
 
         TO = [naver_id]  # 보낼 메일 주소.  # 여기서는 자기자신한테 보냄
 
-        SUBJECT = "[Simulation Diverged] Error message window was detected!"  # 한글을 보내려면 반드시 utf-8로 인코딩해야합니다.
-        TEXT = " Your simulation divered.\nThe error message window was detected.\n Please check your simulation."
+        SUBJECT = "Error message was detected!"  # 한글을 보내려면 반드시 utf-8로 인코딩해야합니다.
+        TEXT = "The error message was detected.\n Please check your computer."
 
         # Prepare actual message
         message = """\From: %s\nTo: %s\nSubject: %s\n\n%s
