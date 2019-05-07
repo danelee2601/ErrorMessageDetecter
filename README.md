@@ -21,4 +21,4 @@
 
 <img src="ErrorMessageDetecter/images/a06.PNG"> <br>
 
-<img src="ErrorMessageDetecter/images/a07.PNG"> <br>
+<img src="ErrorMessageDetecter/images/a08.PNG"> <br>
