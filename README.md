@@ -9,4 +9,16 @@
   tkinter, numpy, matplotlib, cv2
   
 # Quick Start
-![Alt text](/images/a01.png) <br>
+<img src="ErrorMessageDetecter/images/a01.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a02.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a03.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a04.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a05.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a06.PNG"> <br>
+
+<img src="ErrorMessageDetecter/images/a07.PNG"> <br>
