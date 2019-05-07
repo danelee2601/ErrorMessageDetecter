@@ -43,9 +43,9 @@
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a08.PNG"> <br>
-7. The notification email. <br><br>
+7. The notification email. <br><br><br><br>
  
- 
+ <hr>
 <p align="center">
 <i>
 Made by Daesoo Lee (이대수), Masters, Korea Maritime and Ocean University (한국해양대학교)<br>
