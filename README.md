@@ -9,7 +9,7 @@
   tkinter, numpy, matplotlib, cv2
   
 # Quick Start
-<b>[NOTE] Two three to do in advance (These are simple. No worries.)</b> <br>
+<b>[NOTE] Three to do in advance (These are simple. No worries.)</b> <br>
 (a) Allow the SMTP use in the naver mail to send an email with python: https://qkqhxla1.tistory.com/804 <br>
 (b) Download the naver mail app on your phone: http://blog.naver.com/PostView.nhn? blogId=wldms3512&logNo=220567926748&parentCategoryNo=&categoryNo=21&viewDate=&isShowPopularPosts=true&from=search <br>
 (c) Get an image file of the error message of yours. (you can use the snipping tool(=캡쳐도구)) (NOTE: Don't change the scale of the image!) <br>
@@ -50,7 +50,7 @@
 <i>
 Made by Daesoo Lee (이대수), Masters, Korea Maritime and Ocean University (한국해양대학교)<br>
 e-mail : daesoolee@kmou.ac.kr<br>
-First made on 04/14/2019<br><br></p>
+First made on 05/07/2019<br><br></p>
 
 <p align="center">
 Made for 울산대학교 천이난류유동연구실
