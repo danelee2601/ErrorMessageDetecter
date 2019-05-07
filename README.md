@@ -11,7 +11,7 @@
 # Quick Start
 <b>[NOTE] Three to do in advance (These are simple. No worries.)</b> <br>
 (a) Allow the SMTP use in the naver mail to send an email with python: https://qkqhxla1.tistory.com/804 <br>
-(b) Download the naver mail app on your phone: http://blog.naver.com/PostView.nhn? blogId=wldms3512&logNo=220567926748&parentCategoryNo=&categoryNo=21&viewDate=&isShowPopularPosts=true&from=search <br>
+(b) Download the naver mail app on your phone: http://blog.naver.com/PostView.nhn?blogId=wldms3512&logNo=220567926748&parentCategoryNo=&categoryNo=21&viewDate=&isShowPopularPosts=true&from=search <br>
 (c) Get an image file of the error message of yours. (you can use the snipping tool(=캡쳐도구)) (NOTE: Don't change the scale of the image!) <br>
 
 <br>
