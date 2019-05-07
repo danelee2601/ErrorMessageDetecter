@@ -37,11 +37,11 @@
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a05.PNG"> <br>
-5. The Detecter is running ... <br><br>
+5. The Detecter is running ... (when there's no error message.)<br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a06-1.PNG"> <br>
-6. if the detecter finds the error message, it prints "Detected!" and sends a notification email to your Naver email account. <br><br>
+6. If the detecter finds the error message, it prints "Detected!" and sends a notification email to your Naver email account. <br><br>
 
 <p align='center'>
 <img src="ErrorMessageDetecter/images/a08.PNG"> <br>
